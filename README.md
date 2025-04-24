@@ -47,4 +47,4 @@ The available roles are:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/people-management-api.git
+   git clone https://github.com/irinava98/ukg_be_assignment_hcm_Irina_Atanasova.git
